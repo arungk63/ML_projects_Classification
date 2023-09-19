@@ -1,5 +1,5 @@
 
-![image](https://github.com/arungk63/ML_projects_Classification/assets/110715362/61630864-2af5-4af3-a17c-2fa83376cd37)
+![image](https://github.com/arungk63/ML_projects_Classification/assets/110715362/a92ae868-c6b5-466c-9aea-ed60732f08f6)
 
 Objective
 * Develop a predictive model that assesses the Cardiovascular Risk .
